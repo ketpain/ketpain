@@ -3,7 +3,14 @@
 - 🌱 I’m currently studying for Computer Science!
 - 📫 How to reach me; discord is Chase#4288
 
-<!---
-ketpain/ketpain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+```[tasklist]
+TODO List
+- [ ] Know what I'm doing within Unity
+- [ ] Learn how to animate
+- [ ] Learn how to make effects
+- [ ] Learn how to do more than just move a object with input
+- [ ] Make a game
+- [ ] Get good with programming
+- [ ] Graduate from community college
+- [ ] Graduate from 4 year college
+```
