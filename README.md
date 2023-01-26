@@ -3,7 +3,7 @@
 - 🌱 I’m currently studying for Computer Science!
 - 📫 How to reach me; discord is Chase#4288
 
-My goals for the future:
+## My goals for the future:
 - [ ] Know what I'm doing within Unity
 - [ ] Learn how to animate
 - [ ] Learn how to make effects
