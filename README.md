@@ -12,11 +12,8 @@
 - [x] Have a basic understanding of programming
 - [ ] Have a advanced understanding of programming
 - [ ] Have a God-like understanding of programming
-###### Unity Related
-- [ ] Know what I'm doing within Unity
-- [ ] Learn how to animate
-- [ ] Learn how to make effects
-- [ ] Learn how to do more than just move a object with input
-- [ ] Make a game
-###### Unreal Related
+- [ ] 
+###### Unreal Engine
 - [ ] Maybe consider Unreal Engine at some point
+###### OpenCL/Vulkan?
+- [ ] Do the dabble dabble with a little wiggle wiggle
