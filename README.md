@@ -12,8 +12,7 @@
 - [x] Have a basic understanding of programming
 - [ ] Have a advanced understanding of programming
 - [ ] Have a God-like understanding of programming
-- [ ] 
 ###### Unreal Engine
-- [ ] Maybe consider Unreal Engine at some point
+- [ ] Play with Unreal Engine at some point
 ###### OpenCL/Vulkan?
 - [ ] Do the dabble dabble with a little wiggle wiggle
