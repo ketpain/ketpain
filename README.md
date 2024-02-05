@@ -11,3 +11,6 @@
 - [ ] Play with Unreal Engine at some point
 ###### OpenCL/Vulkan?
 - [ ] Maybe dippy my toesies
+###### Ship a game
+- [ ] Make a game
+- [x] Setup a Steam page
