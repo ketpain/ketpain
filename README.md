@@ -1,18 +1,13 @@
 - 👋 Hi, I’m @ketpain
 - 👀 I’m interested in gaming and stuff
-- 🌱 I’m currently studying for Computer Science!
+- 🌱 I’m currently trying to improve my programming
 - 📫 How to reach me; discord is Chase#4288
 
-## My goals for the future:
-###### School Related
-- [x] Enroll in school
-- [ ] Graduate from community college
-- [ ] Graduate from 4 year college
-###### Programming Related
+###### Programming
 - [x] Have a basic understanding of programming
 - [ ] Have a advanced understanding of programming
 - [ ] Have a God-like understanding of programming
 ###### Unreal Engine
 - [ ] Play with Unreal Engine at some point
 ###### OpenCL/Vulkan?
-- [ ] Do the dabble dabble with a little wiggle wiggle
+- [ ] Maybe dippy my toesies
